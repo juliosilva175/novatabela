@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(227, 215, 250);
+}
+
+a{
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 240px;
+    font-size: oblique;
+    color:rgb(226, 43, 211);
+    padding: right 10px 20px 10px 30px
+}
